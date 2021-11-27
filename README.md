@@ -27,7 +27,7 @@ To run this server you will need a node version 12.0.0 (minimum)
 
 1. `git clone https://github.com/italoh623/upfi.git`
 
-2. `cd nextauth`
+2. `cd upfi`
 
 * Install the dependencies and start the server:
 
